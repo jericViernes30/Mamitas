@@ -1,0 +1,14 @@
+{
+    "foods": [
+      {
+        "name": "Spaghetti",
+        "image": "images/breakfast/spaghetti.png",
+        "price": 25
+      },
+      {
+        "name": "Sopas",
+        "image": "images/breakfast/sopas.png",
+        "price": 20
+      }
+    ]
+}
