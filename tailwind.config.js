@@ -9,7 +9,8 @@ export default {
     extend: {
       colors:{
         "main" : "#EE7823",
-        "bd" : "#737373"
+        "bd" : "#737373",
+        "proceed": "#18D742"
       }
     },
   },
