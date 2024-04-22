@@ -8,3 +8,4 @@ Route::get('/', function () {
 });
 
 Route::get('/pos/dashboard', [MenuController::class, 'dashboard'])->name('dashboard');
+Route::get('/pos/ticket_details', [MenuController::class, 'ticketDetails'])->name('ticketDetails');
